@@ -1,0 +1,7 @@
+Viva notes:
+- A dictionary stores each product's fields.
+- A set tracks product keys already seen.
+- float() converts numeric strings into decimal numbers.
+- try/except handles None or invalid price values.
+- by_category groups product dictionaries by category.
+- Missing prices are set to 0.0 in this simple example; a real system might mark them as missing instead.
